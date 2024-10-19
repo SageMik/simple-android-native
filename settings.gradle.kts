@@ -20,6 +20,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "simple-android-native"
+rootProject.name = "simple-native-android"
 
-include(":simple-android-native")
+include(":simple-native-android")

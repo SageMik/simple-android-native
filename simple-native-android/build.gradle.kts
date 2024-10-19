@@ -7,11 +7,11 @@ plugins {
 }
 
 group = "io.github.sagemik"
-version = "0.0.1"
-description = "Simple 中文分词器 的 Android 原生库，用于 Flutter sqlite3_simple 插件"
+version = "1.0.1"
+description = "Simple 的 Android 原生库，用于 Flutter sqlite3_simple 插件"
 
 android {
-    namespace = "io.github.sagemik.simple_android_native"
+    namespace = "io.github.sagemik.simple_native_android"
 
     compileSdk = 34
     ndkVersion = "23.1.7779620"
